@@ -4,7 +4,7 @@
 
 > ![mail](icons/png/mail.png)[bilal.quicktech@gmail.com](mailto:bilal.quicktech@gmail.com) | ![phone](icons/png/whatsapp.png)+923476823949 | ![github](icons/png/github.png)[github.com/bilalqtech](https://github.com/bilalqtech) | ![linkedin](icons/png/linkedin.png)[linkedin.com/in/bilalqtech](https://linkedin.com/in/bilalqtech)
 
-> ##### Sialkot, Pakistan 51310
+> ##### Sialkot, Pakistan 51310 
 
 ## Skills
 
