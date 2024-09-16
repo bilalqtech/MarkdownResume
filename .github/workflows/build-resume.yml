@@ -12,6 +12,10 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      
+    - name: Configure Git safe directory
+      run: |
+        git config --global --add safe.directory /github/workspace
 
     - name: Run in Docker container
       uses: docker://ghcr.io/bilalqtech/markdown-resume:latest
