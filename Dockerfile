@@ -7,6 +7,7 @@ RUN apt-get update && \
     pandoc \
     wkhtmltopdf \
     make \
+    git \
     && apt-get clean
 
 # Set the working directory in the container
