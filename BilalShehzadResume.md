@@ -26,10 +26,10 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 
 ##### 02/2023 - Present (Remote | United States)
 
-- ConvertedAdobeXDandFigmadesignsinto responsive, pixel-perfect components, boosting user engagement by **30%**.
-- Verifiedcross-browser compatibility and responsiveness, leading to a **25%** drop in user-reported problems.
-- Teamedupwithdesignersanddevelopers to improve user experience, cutting development time by **20%**.
-- Createdreusable components and front-end libraries, minimizing code duplication by **40%**.
+- Converted Adobe XD and Figma designs into responsive, pixel-perfect components, boosting user engagement by **30%**.
+- Verified cross-browser compatibility and responsiveness, leading to a **25%** drop in user-reported problems.
+- Teamed up with designers and developers to improve user experience, cutting development time by **20%**.
+- Created reusable components and front-end libraries, minimizing code duplication by **40%**.
 
 #### [Innovation Insight](https://www.linkedin.com/company/innovationinsight/) • Frontend Developer
 
