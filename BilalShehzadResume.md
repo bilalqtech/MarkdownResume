@@ -92,7 +92,7 @@ Linkedin - 2024
 
 ## Honors & Awards
 
-**First Position** Web Development course
+#### First Position • Web Development course
 
 Lahore Institute Of Technical Education (LITE) - 2012
 
