@@ -58,16 +58,17 @@ Virtual University of Pakistan - 2014
 
 Government Murray College, Sialkot - 2008
 
+
 ## Professional Development
 
 #### Level-Up With Modern CSS
 
 Stephanie Eckles - Smashing Online Workshops - 2021
 
-
 #### Advanced Modern CSS Masterclass 
 
 Manuel Matuzovic - Smashing Online Workshops - 2024
+
 
 ## Certifications
 
@@ -75,16 +76,17 @@ Manuel Matuzovic - Smashing Online Workshops - 2024
 
 Mozilla - 2024
 
-
 #### JavaScript Essential Training
 
 Linkedin - 2024
+
 
 ## Honors & Awards
 
 **First Position** Web Development course
 
 Lahore Institute Of Technical Education (LITE) - 2012
+
 
 ## Languages
 
