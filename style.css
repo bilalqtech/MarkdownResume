@@ -31,16 +31,6 @@ h2 {
     margin-bottom:3px;
 }
 
-/* There is a bar just before each category */
-h2:before {
-    content: "";
-    display: inline-block;
-    margin-right:1%;
-    width: 10%;
-    height: 10px;
-    background-color: #0936ff;
-}
-
 h3 {
     color: #000;
     margin-bottom: 3px;
@@ -87,4 +77,5 @@ a {
 
 hr {
     color: #A6A6A6;
+    margin: 10px 0;
 }
