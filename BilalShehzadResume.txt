@@ -2,8 +2,8 @@ Bilal Shehzad
 
   UI Developer
 
-  [mail]bilal.quicktech@gmail.com | [phone]+923476823949 |
-  [github]github.com/bilalqtech | [linkedin]linkedin.com/in/bilalqtech
+  bilal.quicktech@gmail.com | +923476823949 | github.com/bilalqtech |
+  linkedin.com/in/bilalqtech
 
   Sialkot, Pakistan 51310
 
@@ -64,29 +64,39 @@ Freelance • Front-End Web Developer
 
 Education
 
-Master of Computer Science (MCS) Virtual University of Pakistan - 2014
+Master of Computer Science (MCS)
 
-Bachelor of Science in Information Technology (B.Sc. IT) Government
-Murray College, Sialkot - 2008
+Virtual University of Pakistan - 2014
+
+Bachelor of Science in Information Technology (B.Sc. IT)
+
+Government Murray College, Sialkot - 2008
 
 Professional Development
 
-Level-Up With Modern CSS Stephanie Eckles Smashing Online Workshops -
-2021
+Level-Up With Modern CSS Stephanie Eckles
 
-Advanced Modern CSS Masterclass Manuel Matuzovic Smashing Online
-Workshops - 2024
+Smashing Online Workshops - 2021
+
+Advanced Modern CSS Masterclass Manuel Matuzovic
+
+Smashing Online Workshops - 2024
 
 Certifications
 
-JavaScript Foundations Professional Certificate Mozilla - 2024
+JavaScript Foundations Professional Certificate
 
-JavaScript Essential Training Linkedin - 2024
+Mozilla - 2024
+
+JavaScript Essential Training
+
+Linkedin - 2024
 
 Honors & Awards
 
-First Position Web Development course Lahore Institute Of Technical
-Education (LITE) - 2012
+First Position Web Development course
+
+Lahore Institute Of Technical Education (LITE) - 2012
 
 Languages
 
