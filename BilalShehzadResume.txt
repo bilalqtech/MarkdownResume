@@ -7,6 +7,8 @@ Bilal Shehzad
 
   Sialkot, Pakistan 51310
 
+------------------------------------------------------------------------
+
 Skills
 
 Frontend
@@ -21,6 +23,8 @@ Node.js, Express.js, MongoDB, REST APIs, GraphQL
 Tools & Methodologies
 
 Git, GitHub, Agile, Adobe XD, Figma, Photoshop
+
+------------------------------------------------------------------------
 
 Experience
 
@@ -62,6 +66,8 @@ Freelance • Front-End Web Developer
     consistency and cohesive styles, resulting in a 20% boost in user
     engagement metrics.
 
+------------------------------------------------------------------------
+
 Education
 
 Master of Computer Science (MCS)
@@ -71,6 +77,8 @@ Virtual University of Pakistan - 2014
 Bachelor of Science in Information Technology (B.Sc. IT)
 
 Government Murray College, Sialkot - 2008
+
+------------------------------------------------------------------------
 
 Professional Development
 
@@ -82,6 +90,8 @@ Advanced Modern CSS Masterclass
 
 Manuel Matuzovic - Smashing Online Workshops - 2024
 
+------------------------------------------------------------------------
+
 Certifications
 
 JavaScript Foundations Professional Certificate
@@ -92,11 +102,15 @@ JavaScript Essential Training
 
 Linkedin - 2024
 
+------------------------------------------------------------------------
+
 Honors & Awards
 
 First Position Web Development course
 
 Lahore Institute Of Technical Education (LITE) - 2012
+
+------------------------------------------------------------------------
 
 Languages
 
