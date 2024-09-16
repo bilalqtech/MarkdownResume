@@ -13,5 +13,8 @@ RUN apt-get update && \
 # Set the working directory in the container
 WORKDIR /workspace
 
+# Configure Git to trust the workspace directory
+RUN git config --global --add safe.directory /workspace
+
 # Default command (optional)
 CMD ["bash"]
