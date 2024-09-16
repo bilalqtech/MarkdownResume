@@ -70,11 +70,11 @@ Government Murray College, Sialkot - 2008
 
 #### Level-Up With Modern CSS
 
-Stephanie Eckles - Smashing Online Workshops - 2021
+Stephanie Eckles • Smashing Online Workshops - 2021
 
 #### Advanced Modern CSS Masterclass 
 
-Manuel Matuzovic - Smashing Online Workshops - 2024
+Manuel Matuzovic • Smashing Online Workshops - 2024
 
 ---
 
