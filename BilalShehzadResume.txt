@@ -22,7 +22,7 @@ Node.js, Express.js, MongoDB, REST APIs, GraphQL
 
 Tools & Methodologies
 
-Git, GitHub, Agile, Adobe XD, Figma, Photoshop
+Git, GitHub, Docker, Agile, Adobe XD, Figma, Photoshop
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ Experience
 
 Empower Associates • Senior UI Developer
 
-02/2023 - Present (Remote | United States)
+02/2023 - Present (Remote • United States)
 
 -   Converted Adobe XD and Figma designs into responsive, pixel-perfect
     components, boosting user engagement by 30%.
@@ -43,7 +43,7 @@ Empower Associates • Senior UI Developer
 
 Innovation Insight • Frontend Developer
 
-01/2020 - 02/2023 (Remote | Sialkot, Pakistan)
+01/2020 - 02/2023 (Remote • Sialkot, Pakistan)
 
 -   Improved web design to boost user experience, resulting in a 15%
     surge in web traffic.
@@ -56,7 +56,7 @@ Innovation Insight • Frontend Developer
 
 Freelance • Front-End Web Developer
 
-09/2015 - 12/2019 (Remote | Sialkot, Pakistan)
+09/2015 - 12/2019 (Remote • Sialkot, Pakistan)
 
 -   Led front-end development for QuickTech and Dailymed, focusing on
     responsive design and seamless back-end integration, resulting in a
@@ -84,11 +84,11 @@ Professional Development
 
 Level-Up With Modern CSS
 
-Stephanie Eckles - Smashing Online Workshops - 2021
+Stephanie Eckles • Smashing Online Workshops - 2021
 
 Advanced Modern CSS Masterclass
 
-Manuel Matuzovic - Smashing Online Workshops - 2024
+Manuel Matuzovic • Smashing Online Workshops - 2024
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ Linkedin - 2024
 
 Honors & Awards
 
-First Position Web Development course
+First Position • Web Development course
 
 Lahore Institute Of Technical Education (LITE) - 2012
 
