@@ -2,7 +2,7 @@
 
 > **UI Developer**
 
-> ![mail](icons/png/mail.png)[bilal.quicktech@gmail.com](mailto:bilal.quicktech@gmail.com) | ![phone](icons/png/whatsapp.png)+923476823949 | ![github](icons/png/github.png)[github.com/bilalqtech](https://github.com/bilalqtech) | ![linkedin](icons/png/linkedin.png)[linkedin.com/in/bilalqtech](https://linkedin.com/in/bilalqtech)
+> [bilal.quicktech@gmail.com](mailto:bilal.quicktech@gmail.com) | +923476823949 | [github.com/bilalqtech](https://github.com/bilalqtech) | [linkedin.com/in/bilalqtech](https://linkedin.com/in/bilalqtech)
 
 > ##### Sialkot, Pakistan 51310
 
@@ -22,7 +22,7 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 
 ## Experience
 
-#### [Empower Associates](https://crm.empower.associates/) • _Senior UI Developer_
+#### [Empower Associates](https://crm.empower.associates/) • Senior UI Developer
 
 ##### 02/2023 - Present (Remote | United States)
 
@@ -31,7 +31,7 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 - Teamedupwithdesignersanddevelopers to improve user experience, cutting development time by **20%**.
 - Createdreusable components and front-end libraries, minimizing code duplication by **40%**.
 
-#### [Innovation Insight](https://innovation-insight.com/) • _Frontend Developer_
+#### [Innovation Insight](https://innovation-insight.com/) • Frontend Developer
 
 ##### 01/2020 - 02/2023 (Remote | Sialkot, Pakistan)
 
@@ -40,7 +40,7 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 - Reduced onboarding time for junior developers by **50%** through mentoring.
 - Developed HTML emails with consistent rendering across clients achieving a **95%** success rate.
 
-#### Freelance • _Front-End Web Developer_
+#### Freelance • Front-End Web Developer
 
 ##### 09/2015 - 12/2019 (Remote | Sialkot, Pakistan)
 
@@ -50,35 +50,42 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 ## Education
 
 **Master of Computer Science (MCS)**
+
 Virtual University of Pakistan - 2014
 
 **Bachelor of Science in Information Technology (B.Sc. IT)**
+
 Government Murray College, Sialkot - 2008
 
 ## Professional Development
 
-**Level-Up With Modern CSS** _Stephanie Eckles_
+**Level-Up With Modern CSS** Stephanie Eckles
+
 Smashing Online Workshops - 2021
 
-**Advanced Modern CSS Masterclass** _Manuel Matuzovic_
+**Advanced Modern CSS Masterclass** Manuel Matuzovic
+
 Smashing Online Workshops - 2024
 
 ## Certifications
 
 **JavaScript Foundations Professional Certificate**
+
 Mozilla - 2024
 
 **JavaScript Essential Training**
+
 Linkedin - 2024
 
 ## Honors & Awards
 
-**First Position** _Web Development course_
+**First Position** Web Development course
+
 Lahore Institute Of Technical Education (LITE) - 2012
 
 ## Languages
 
-- **English** _(Professional working proficiency)_
-- **Urdu** _(Native)_
-- **Punjabi** _(Native)_
-- **German** _(Elementary proficiency)_
+- **English** (Professional working proficiency)
+- **Urdu** (Native)
+- **Punjabi** (Native)
+- **German** (Elementary proficiency)
