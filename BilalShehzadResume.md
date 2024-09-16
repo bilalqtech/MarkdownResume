@@ -6,6 +6,8 @@
 
 > ##### Sialkot, Pakistan 51310
 
+---
+
 ## Skills
 
 #### Frontend
@@ -19,6 +21,8 @@ Node.js, Express.js, MongoDB, REST APIs, GraphQL
 #### Tools & Methodologies
 
 Git, GitHub, Agile, Adobe XD, Figma, Photoshop
+
+---
 
 ## Experience
 
@@ -44,8 +48,10 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 
 ##### 09/2015 - 12/2019 (Remote | Sialkot, Pakistan)
 
-- Led front-end development for **QuickTech** and **Dailymed**, focusing on responsive design and seamless back-end integration, resulting in a 15% increase in user retention and a **25%** improvement in page load times.
+- Led front-end development for **QuickTech** and **Dailymed**, focusing on responsive design and seamless back-end integration, resulting in a **15%** increase in user retention and a **25%** improvement in page load times.
 - Initiated partnerships with designers to guarantee cross-browser consistency and cohesive styles, resulting in a **20%** boost in user engagement metrics.
+
+---
 
 ## Education
 
@@ -58,6 +64,7 @@ Virtual University of Pakistan - 2014
 
 Government Murray College, Sialkot - 2008
 
+---
 
 ## Professional Development
 
@@ -69,6 +76,7 @@ Stephanie Eckles - Smashing Online Workshops - 2021
 
 Manuel Matuzovic - Smashing Online Workshops - 2024
 
+---
 
 ## Certifications
 
@@ -80,6 +88,7 @@ Mozilla - 2024
 
 Linkedin - 2024
 
+---
 
 ## Honors & Awards
 
@@ -87,6 +96,7 @@ Linkedin - 2024
 
 Lahore Institute Of Technical Education (LITE) - 2012
 
+---
 
 ## Languages
 
