@@ -63,8 +63,7 @@ p {
 }
 
 blockquote {
-    margin-top: 2px;
-    margin-bottom: 2px;
+    margin: 2px 0 2px;
     padding: 3px;
     text-align: center;
 }
@@ -84,9 +83,4 @@ li{
 a {
     text-decoration: none;
     color: #001488;
-}
-
-/* Horizontal separators */
-hr {
-    color: #A6A6A6;
 }
