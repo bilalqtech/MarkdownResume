@@ -22,7 +22,7 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 
 ## Experience
 
-#### [Empower Associates](https://crm.empower.associates/) • Senior UI Developer
+#### [Empower Associates](https://www.linkedin.com/company/empowerassociates/) • Senior UI Developer
 
 ##### 02/2023 - Present (Remote | United States)
 
@@ -31,7 +31,7 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 - Teamedupwithdesignersanddevelopers to improve user experience, cutting development time by **20%**.
 - Createdreusable components and front-end libraries, minimizing code duplication by **40%**.
 
-#### [Innovation Insight](https://innovation-insight.com/) • Frontend Developer
+#### [Innovation Insight](https://www.linkedin.com/company/innovationinsight/) • Frontend Developer
 
 ##### 01/2020 - 02/2023 (Remote | Sialkot, Pakistan)
 
@@ -49,31 +49,34 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 
 ## Education
 
-**Master of Computer Science (MCS)**
+#### Master of Computer Science (MCS)
 
 Virtual University of Pakistan - 2014
 
-**Bachelor of Science in Information Technology (B.Sc. IT)**
+
+#### Bachelor of Science in Information Technology (B.Sc. IT)
 
 Government Murray College, Sialkot - 2008
 
 ## Professional Development
 
-**Level-Up With Modern CSS** Stephanie Eckles
+#### Level-Up With Modern CSS
 
-Smashing Online Workshops - 2021
+Stephanie Eckles - Smashing Online Workshops - 2021
 
-**Advanced Modern CSS Masterclass** Manuel Matuzovic
 
-Smashing Online Workshops - 2024
+#### Advanced Modern CSS Masterclass 
+
+Manuel Matuzovic - Smashing Online Workshops - 2024
 
 ## Certifications
 
-**JavaScript Foundations Professional Certificate**
+#### JavaScript Foundations Professional Certificate
 
 Mozilla - 2024
 
-**JavaScript Essential Training**
+
+#### JavaScript Essential Training
 
 Linkedin - 2024
 
