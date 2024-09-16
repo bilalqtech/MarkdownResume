@@ -4,7 +4,7 @@
 
 > ![mail](icons/png/mail.png)[bilal.quicktech@gmail.com](mailto:bilal.quicktech@gmail.com) | ![phone](icons/png/whatsapp.png)+923476823949 | ![github](icons/png/github.png)[github.com/bilalqtech](https://github.com/bilalqtech) | ![linkedin](icons/png/linkedin.png)[linkedin.com/in/bilalqtech](https://linkedin.com/in/bilalqtech)
 
-> ##### Sialkot, Pakistan 51310 
+> ##### Sialkot, Pakistan 51310
 
 ## Skills
 
@@ -44,8 +44,8 @@ Git, GitHub, Agile, Adobe XD, Figma, Photoshop
 
 ##### 09/2015 - 12/2019 (Remote | Sialkot, Pakistan)
 
-- Led front-end development for **QuickTech** and **Dailymed**, focusing on responsive design and seamless back-end integration, resulting in a 15% increase in user retention and a 25% improvement in page load times.
-- Initiated partnerships with designers to guarantee cross-browser consistency and cohesive styles, resulting in a 20% boost in user engagement metrics.
+- Led front-end development for **QuickTech** and **Dailymed**, focusing on responsive design and seamless back-end integration, resulting in a 15% increase in user retention and a **25%** improvement in page load times.
+- Initiated partnerships with designers to guarantee cross-browser consistency and cohesive styles, resulting in a **20%** boost in user engagement metrics.
 
 ## Education
 
@@ -76,9 +76,9 @@ Linkedin - 2024
 **First Position** _Web Development course_
 Lahore Institute Of Technical Education (LITE) - 2012
 
-# Languages
+## Languages
 
-- English (Professional working proficiency)
-- Urdu (Native)
-- Punjabi (Native)
-- German (Elementary proficiency)
+- **English** _(Professional working proficiency)_
+- **Urdu** _(Native)_
+- **Punjabi** _(Native)_
+- **German** _(Elementary proficiency)_
