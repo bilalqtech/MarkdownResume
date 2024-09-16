@@ -20,7 +20,7 @@ Node.js, Express.js, MongoDB, REST APIs, GraphQL
 
 #### Tools & Methodologies
 
-Git, GitHub, Agile, Adobe XD, Figma, Photoshop
+Git, GitHub, Docker, Agile, Adobe XD, Figma, Photoshop
 
 ---
 
