@@ -13,23 +13,23 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y pandoc wkhtmltopdf make
-
-    - name: Build resume
-      run: |
-        make clean
-        make all
-
-    - name: Commit and push resume files
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add *.pdf *.docx *.txt *.html
-        git commit -m "Auto-update resume formats [skip ci]" || echo "No changes to commit"
-        git push origin HEAD
+    - name: Run in Docker container
+      uses: docker://ghcr.io/bilalqtech/markdown-resume:latest
+      with:
+        entrypoint: /bin/bash
+        args: |
+          -c "
+          # Build resume
+          make clean
+          make all
+          
+          # Commit and push resume files
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add *.pdf *.docx *.txt *.html
+          git commit -m 'Auto-update resume formats [skip ci]' || echo 'No changes to commit'
+          git push origin HEAD
+          "
 
     # Optional: Upload artifacts (if you want a backup in the Actions tab)
     - name: Upload resume outputs
