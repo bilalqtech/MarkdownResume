@@ -28,7 +28,7 @@ Git, GitHub, Docker, Agile, Adobe XD, Figma, Photoshop
 
 #### [Empower Associates](https://www.linkedin.com/company/empowerassociates/) • Senior UI Developer
 
-##### 02/2023 - Present (Remote | United States)
+##### 02/2023 - Present (Remote • United States)
 
 - Converted Adobe XD and Figma designs into responsive, pixel-perfect components, boosting user engagement by **30%**.
 - Verified cross-browser compatibility and responsiveness, leading to a **25%** drop in user-reported problems.
@@ -37,7 +37,7 @@ Git, GitHub, Docker, Agile, Adobe XD, Figma, Photoshop
 
 #### [Innovation Insight](https://www.linkedin.com/company/innovationinsight/) • Frontend Developer
 
-##### 01/2020 - 02/2023 (Remote | Sialkot, Pakistan)
+##### 01/2020 - 02/2023 (Remote • Sialkot, Pakistan)
 
 - Improved web design to boost user experience, resulting in a **15%** surge in web traffic.
 - Enhanced application speed by **30%** through the implementation of modern, optimized JavaScript features.
@@ -46,7 +46,7 @@ Git, GitHub, Docker, Agile, Adobe XD, Figma, Photoshop
 
 #### Freelance • Front-End Web Developer
 
-##### 09/2015 - 12/2019 (Remote | Sialkot, Pakistan)
+##### 09/2015 - 12/2019 (Remote • Sialkot, Pakistan)
 
 - Led front-end development for **QuickTech** and **Dailymed**, focusing on responsive design and seamless back-end integration, resulting in a **15%** increase in user retention and a **25%** improvement in page load times.
 - Initiated partnerships with designers to guarantee cross-browser consistency and cohesive styles, resulting in a **20%** boost in user engagement metrics.
