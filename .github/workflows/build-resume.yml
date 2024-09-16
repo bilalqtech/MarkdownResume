@@ -1,9 +1,7 @@
 name: Build and Commit Resume
 
 on:
-  push:
-    paths:
-      - "BilalShehzadResume.md"   # Only trigger on changes to resume.md
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,17 +10,22 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-      
-    - name: Configure Git safe directory
-      run: |
-        git config --global --add safe.directory /github/workspace
 
     - name: Run in Docker container
-      uses: docker://ghcr.io/bilalqtech/markdown-resume:latest
+      uses: docker://ghcr.io/myusername/myresume-builder:latest
       with:
         entrypoint: /bin/bash
         args: |
           -c "
+          # Debugging: Check Git configuration
+          git config --list
+      
+          # Configure Git to trust the workspace directory
+          git config --global --add safe.directory /github/workspace
+      
+          # Debugging: Check Git configuration again
+          git config --list
+          
           # Build resume
           make clean
           make all
