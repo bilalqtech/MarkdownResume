@@ -12,7 +12,7 @@
 
 #### Frontend
 
-React.js, TypeScript, HTML5, CSS3, TailwindCSS, Bootstrap, SASS, Storybook, Responsive Web Design, Animation, Design Systems, HTML Emails
+React.js, TypeScript, HTML5, CSS3, TailwindCSS, Bootstrap, SASS, styled-components, Web Components, Responsive Web Design, Storybook, Animation, Design Systems, HTML Emails
 
 #### Backend
 
@@ -20,7 +20,7 @@ Node.js, Express.js, MongoDB, REST APIs, GraphQL
 
 #### Tools & Methodologies
 
-Git, GitHub, Docker, Agile, Adobe XD, Figma, Photoshop
+Git, GitHub, Docker, CI/CD, Agile, Adobe XD, Figma, Photoshop
 
 ---
 
