@@ -1,5 +1,5 @@
 # markdown-resume
-*My resume made in markdown and easily converted to pdf, docx, and text using github workflow*
+*My resume made in markdown and easily converted to pdf, docx, and text using **github workflow***
 
 ## [View resume as github markdown w/ clickable links](https://github.com/bilalqtech/markdown-resume/blob/main/BilalShehzadResume.md)
 ## [View resume as pdf](https://github.com/bilalqtech/markdown-resume/blob/main/BilalShehzadResume.pdf)
